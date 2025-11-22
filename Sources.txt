@@ -1,0 +1,134 @@
+Source: "Ellipse Planet" by MathAddict.net  
+http://www.mathaddict.net/ellipseplanet.pdf
+
+Astronomy.com, 2023; SciTechDaily, 2024
+
+SciTechDaily, 2024; Technology.org, 2023
+
+New Scientist, 2019; ESA estimates
+
+https://www.einstein-schrodinger.com.html
+
+https://www.harapanrakyat.com/2021/09/supernova-sn-1181/
+
+https://science.nasa.gov/asset/hubble/sn-uds10wil-with-host-galaxy-subtracted/
+
+Aerospace Electronics History - YouTube
+
+https://www.l3harris.com/company/powering-defense-and-space-exploration
+
+https://aerospace.honeywell.com/us/en/industry/space
+
+https://www.lockheedmartin.com/en-us/suppliers/business-area-procurement/aeronautics.html
+
+LeoLabs simulator
+
+RAND Europe, "Behind the Curtain: The Illicit Trade of Firearms, Explosives and Ammunition on the Dark Web," Giacomo Persi Paoli et al., 2017; ACM, "A Qualitative Analysis of Illicit Arms Trafficking on Darknet Marketplaces," 2023
+
+38 North, "UDMH Production in North Korea: Additional Facilities Likely," 2017; Seattle Times, "Dangerous Propellant is Key to Success of North Korean Missile Program," William J. Broad and David E. Sanger, 2017; RUSI, "Shopping for Mass Destruction: North Korea’s Illicit Procurement Networks," 2017
+
+ATF.gov, "Explosives Enforcement," ongoing; Wikipedia, "Explosives Trace Detector," updated 2025; OJP/NIJ, "Cargo Theft Data and Port Security Methods," updated from 2001
+
+PyroData, "Ammonium Perchlorate Composite Propellant," ongoing; Wikipedia, "Rocket Propellant," updated 2025; Nakka-Rocketry, "Propellant Chemistry," 2023; ATF, "Homemade Explosives," 2022; ScienceDirect, "Aluminum Powder in Solid Propellants," 2021; Richard Nakka's Experimental Rocketry Site, "KNDX Propellant," 2024; Reddit r/rocketry, "DIY Propellant Sources," 2023
+
+ATF, "Explosives License and Permit Application," Form 5400.13/5400.16, 2024; ATF, "Federal Explosives Regulations," 27 CFR Part 555, ongoing; eCFR, "Storage of Low Explosives," 27 CFR § 555.210, 2025; ATF, "Explosives Industry Newsletter," Issue 2023-1; NAR, "ATF Regulations for Model Rocketry," 2024; Tripoli Rocketry Association, "High Power Rocketry Permits," 2023; ATF, "Transportation of Explosives," 49 CFR § 173.56, ongoing; eCFR, "Quantity Limits," 27 CFR § 555.211, 2025; ATF, "Explosives Transportation FAQs," 2022; Federal Register, "ATF Final Rule on Explosives Storage," 2024
+
+18 U.S.C. § 844(a), "Penalties for Unlawful Manufacture," via Cornell LII, 2025; Justice.gov, "Explosives Violations Prosecutions," 2023; ATF, "Penalties for Explosives Violations," ongoing; U.S. Sentencing Commission, "Explosives Offenses Guidelines," 2024; DOJ, "Federal Explosives Statutes," 2022; Cornell LII, "18 U.S.C. § 844 Overview,"2025; ATF, "Civil Penalties for Explosives," 2023; Federal Register, "Inflation Adjustments for Penalties," 2024; Justice.gov, "Case Example: Explosives Fine," 2021
+
+U.S. Treasury Department, FinCEN Advisory FIN-2018-A001 (2018) on foreign proxies in real estate and investments.
+
+Congress.gov, "U.S. Export Controls and China: Advanced Semiconductors," 2025; BusinessWorld Online, "Taiwan to further tighten export controls for dual-use technology," 2025; Wikipedia, "Semiconductor Manufacturing International Corporation," 2025; CSIS, "The Limits of Chip Export Controls in Meeting the China Challenge," 2025; Tom's Hardware, "Taiwan bans chip exports to Huawei, SMIC," 2025
+
+USITC, "Harmonized Tariff Schedule," ongoing;
+Aviation Suppliers Assoc., "Importing Aircraft Parts," ongoing;
+One Union, "HS Codes," 2025;
+Mouse & Bear, "Importer of Record – Dual-Use Tech," ongoing;
+How to Export Import, "HS Codes – Aircraft & Spacecraft," ongoing;
+Trade.gov, "HS Codes," ongoing;
+One Union, "HS Codes in Aircraft Component Trade," 2025;
+USITC, "HTSUS (2010)," 2010;
+USITC, "Tariff Info," ongoing;
+USITC, "Tariff Classification FAQ," ongoing;
+FBI, "Counterintelligence," 2025;
+FBI, "Oversight," 2025;
+FBI, "Internet Crime Report," 2025;
+FBI, "News," 2022;
+Interpol, "Operation: 41 Arrests, 22K Malicious IPs," 2024;
+FBI, "Internet Crime Report," 2023;
+PMC, "INTERPOL Surveillance vs. Transnational Terrorism," ongoing;
+WEF, "4 Steps Toward Global Cybercrime Agency," 2025
+
+Financial Times, "The shadowy network smuggling European microchips into Russia," 2023; Reddit r/space, "The Kazakh Government has seized the property of Roscosmos in Kazakhstan," 2023; Daily Mail, "Anonymous hacking group says it has shut down Russia's space agency Roscosmos," 2022; Defense Security Monitor, "Kazakhstan Impounds Russia’s Cosmodrome Assets at Baikonur," 2023; Space.com, "OneWeb pulls employees out of Baikonur Cosmodrome, suspends launches from site," 2022; Newsweek, "Roscosmos Head Rejects Anonymous Claim That Russian Satellites Were Hacked," 2022; RFERL, "Kazakhstan Impounds Property Of Russian Cosmodrome Operator In Baikonur," 2023; Euractiv, "Kazakhstan impounds Russian property at Baikonur Cosmodrome," 2024; Wikipedia, "Roscosmos," 2025; Japan Times, "U.S. pressures Russia war smugglers after army’s run on chips," 2023
+
+Treasury.gov, "Recent Actions | Office of Foreign Assets Control," ongoing; Chainalysis, "International Agencies Sanction Dmitry Khoroshev, LockBit Leader," 2025; Treasury.gov, "Sanctions Programs and Country Information," ongoing; Chainalysis, "Sanctions: Iranians Flock to Crypto; Int'l Actions Target Russia," 2025; Merkle Science, "A Look Back at the Top Crypto Sanctions Cases of 2024," ongoing; Treasury.gov, "Treasury Sanctions Cryptocurrency Exchange and Network Enabling Sanctions Evasion and Cyber Criminals," 2025; Morrison Foerster, "U.S. Sanctions Enforcement: 2024 Lessons Learned and 2025 Expectations," 2025; Elliptic, "OFAC targets Russian crypto-enabled money laundering network for facilitating sanctions evasion," ongoing; Treasury.gov, "U.S. Exposes Attempted Sanctions Evasion Scheme Connected to Russian Oligarch," 2024; TRM Labs, "US Treasury’s OFAC sanctions Russia-based crypto exchanges and fintech’s for facilitating sanctions evasion," ongoing
+
+CSIS, "Iran's IRGC Procurement Networks," 2023; Reuters, "Iranian networks smuggling dual-use goods via Syria," 2024
+
+UN Panel of Experts, "DPRK Sanctions Evasion via Syria," 2023; 38 North, "NK Smuggling Routes through Middle East," 2022
+
+Tom's Hardware, "Singapore AI chip court case... smuggling Nvidia chips," 2025; CryptoTimes, "Singapore Police Arrest 3 For Smuggling NVIDIA GPU to China," 2025
+
+FBI, "Insider Threats in Defense," 2025; DOJ, "Lockheed Martin Insider Case," 2024; Honeywell, "Insider Threat Detection," 2023
+
+CISA, "Insider Threat Mitigation," 2025; DNI, "Annual Threat Assessment," 2025
+
+DOJ, "Former Raytheon Engineer Sentenced," 2025; Reuters, "Raytheon Spy Sentenced," 2025
+
+Wikipedia, "Rocket Launch Pad," 2025; NASA, "Launch Pad Construction," ongoing
+
+eoPortal, "NRO Spaceborne Radar Data," ongoing ; ESA, "SAR Missions," ongoing ; Medium, "Thermal Imaging with Satellites," 2023
+
+USGS, "National Earthquake Information Center," ongoing ; Wikipedia, "National Earthquake Information Center," 2025 ; EarthquakeTrack, "Today's Earthquakes in North Korea," ongoing
+
+Federal Register, "Civil Penalty Amounts," 2021 ; eCFR, "14 CFR § 406.9 - Civil penalties," ongoing ; Federal Register, "Revisions to Civil Penalty Amounts, 2025," 2024
+
+49 U.S.C. § 46315, "In-flight interference," ongoing; FAA, "Legal Enforcement Actions," ongoing ; NBAA, "DOT, FAA Increase Civil Penalties," 2024
+
+ESA, "ERS Radar Course 2," ongoing ; eoPortal, "NRO Spaceborne Radar Data," ongoing ; Wikipedia, "Thermography," 2025 ; InterNACHI, "IR Cameras: Inspecting Roofs," ongoing
+
+GreenMatch, "Solar Panels for Underground Bunker," 2024 ; Rising S Bunkers, "Solar Power," 2024 ; Quora, "Generate Electricity in Bunker," ongoing ; Survivalist Forum, "Power Underground Bunker," ongoing
+
+38 North, "North Korea’s Space Agency at Ten," 2023; NRO, "NRO Brochure 2022," ongoing; Air & Space Forces, "NGA, Intel Community with Space Force," 2024; Wikipedia, "National Reconnaissance Office," 2025
+
+GlobalSecurity, "Missile Defense Infrared Sensors," ongoing; Carnegie, "Infrasound Detection of NK Launch," 2009; CSIS, "Space-Based Infrared System (SBIRS)," 2021; MDPI, "Sensors for Long Range Missile Defense," 2022
+
+UN Press, "DPRK Failed Launch Briefing," 2023; NPR, "NK Rocket Launch," 2023; USIP, "NK Satellite Launch Tensions," 2023; Reuters, "US Sanctions NK Post-Launch," 2023
+
+GeekWire, "FCC levies $900,000 fine against Swarm Technologies," 2018; The Verge, "FCC slams spaceflight company with $900,000 fine," 2018; SpaceNews, "FCC fines Swarm $900,000 for unauthorized smallsat launch," 2023
+
+Space.com, "FCC Fines Swarm $900,000 for Unauthorized Smallsat Launch," 2018; Teslarati, "Startup fined $900k for launching illegal satellites," 2018; TechCrunch, "FCC fines Swarm Technologies $900K," 2018
+
+LA Times, "FCC fines Swarm $900,000 for launching without permission," 2018; Wikipedia, "Swarm Technologies," 2025; Futurism, "FCC fines startup for launching satellites without permission," 2018
+
+CSIS, "Space-Based Infrared System," 2021; Lockheed Martin, "SBIRS Launch," 2022
+
+NYT, "Nuclear Warning Systems," 1983; Reddit r/nuclearweapons, "Launch Detection," 2024
+
+Carnegie, "NK Launch Infrasound," 2009; CTBTO, "Infrasound Monitoring," ongoing
+
+Wikipedia, "US SSN," 2025; CelesTrak, "Space Surveillance," ongoing
+
+Royal Society, "Pan-STARRS/ATLAS Transients," 2013; Falling Star, "ATLAS Works," ongoing
+
+NASA, "Conjunction Assessment," 2017; NASA, "Collision Avoidance Course," 2015
+
+NASA, "Deep Space Network," 2025; Wikipedia, "NASA DSN," 2025
+
+Wikipedia, "Outer Space Treaty," 2025; State.gov, "Outer Space Treaty," ongoing
+
+UNOOSA, "United Nations Treaties on Outer Space," ongoing; UNOOSA, "Outer Space Treaty," ongoing
+
+Wikipedia, "Outer Space Treaty," 2025; Arms Control Association, "Outer Space Treaty at a Glance," ongoing
+
+Wikipedia, "UN Committee on the Peaceful Uses of Outer Space," 2025; UNOOSA, "COPUOS," ongoing
+
+Wikipedia, "NASA Deep Space Network," 2025; NASA, "Deep Space Network," 2025
+
+Wikipedia, "Chinese Deep Space Network," 2025; SpaceNews, "China Tests Deep Space Network," 2023
+
+Wikipedia, "Bistatic Radar," 2025; Restless Technophile, "Bistatic Radar Counterstealth," 2020
+
+Wikipedia, "Solar Sail," 2025; NASA, "Spot NASA's Solar Sail," 2025
+
+Wikipedia, "Radar Astronomy," 2025; SpaceNews, "Deep-Space Radar Tracking," 2025
+
